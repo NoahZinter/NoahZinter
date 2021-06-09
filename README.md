@@ -3,5 +3,6 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 
 [![NoahZinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahzinter)](https://github.com/noahzinter/github-readme-stats)
 
- #  <u>My Skills</u>
- 
+ # My Skills
+---
+
