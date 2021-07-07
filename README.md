@@ -14,6 +14,6 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![bootstrap](file:///Users/nwz/Downloads/bootstrap%20(1).svg)
+![bootstrap](https://img.sheilds.io/badge/-Bootstrap-000?&logo=bootstrap)
 ---
 
