@@ -3,7 +3,7 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 
 [![NoahZinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahzinter)](https://github.com/noahzinter/github-readme-stats)
 
- # Technologies I Use
+
  ### Technologies I Use
 
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
@@ -14,5 +14,6 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![#7952B3]
 ---
 
