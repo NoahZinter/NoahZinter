@@ -18,5 +18,7 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![CircleCi](https://img.shields.io/badge/-CircleCI-000?&logo=circleci)
 ![AWS S3](https://img.shields.io/badge/-AWSS3-000?&logo=awss3)
+![RSpec](https://img.shields.io/badge/-RSpec-000?&logo=rspec)
+![MiniTest](https://img.shields.io/badge/-Minitest-000?&logo=minitest)
 ---
 
