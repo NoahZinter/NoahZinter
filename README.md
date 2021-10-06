@@ -15,5 +15,6 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ---
 
