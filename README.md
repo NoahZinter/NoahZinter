@@ -1,11 +1,19 @@
 ### Hi there 👋
-I'm Noah Zinter. I'm a software engineer with a background in sales, communication, languages, and music and I use those skills to create appealing software products which interact intuitively with users. 
-
-[![NoahZinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahzinter)](https://github.com/noahzinter/github-readme-stats)
+I'm Noah Zinter. I'm a software test engineer with experience testing complex systems of microservices. I studied backend software development in Ruby on Rails before starting my career as a software test engineer, creating API tests, automated test suites, and customized test scripts to prove and monitor crucial elements of business logic. 
 
 
  ### Technologies I Use
-
+![GraphQl](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png)
+![Rest](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
+![Typescript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
+![Jest](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png)
+![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![Pytest](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png)
+![RSpec](https://img.shields.io/badge/-RSpec-000?&logo=rspec)
+![AWS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png)
+![Cucumber](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cucumber.png)
+![Cypress](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png)
+![NPM](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
 ![Rails](https://img.shields.io/badge/-Rails-000?&logo=ruby-on-rails&logoColor=F90)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -18,7 +26,6 @@ I'm Noah Zinter. I'm a software engineer with a background in sales, communicati
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![CircleCi](https://img.shields.io/badge/-CircleCI-000?&logo=circleci)
 ![AWS S3](https://img.shields.io/badge/-AWSS3-000?&logo=awss3)
-![RSpec](https://img.shields.io/badge/-RSpec-000?&logo=rspec)
 ![MiniTest](https://img.shields.io/badge/-Minitest-000?&logo=minitest)
 ---
 
