@@ -5,7 +5,7 @@ I'm Noah Zinter. I'm a software test engineer with experience testing complex sy
  ### Technologies I Use
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl&logoColor=F90)
 ![Rest](https://img.shields.io/badge/-Rest-000?&logo=Rest&logoColor=F90)
-![Typescript]((https://img.shields.io/badge/-Typescript-000?&logo=Typescript&logoColor=F90)
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript&logoColor=F90)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=F90)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=F90)
 ![Pytest](https://img.shields.io/badge/-Pytest-000?&logo=Pytest&logoColor=F90)
