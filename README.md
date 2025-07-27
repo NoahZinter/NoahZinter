@@ -12,6 +12,7 @@ I'm Noah Zinter. I'm a software test engineer with experience testing complex sy
 ![RSpec](https://img.shields.io/badge/-RSpec-000?&logo=rspec)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS&logoColor=F90)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=Cucumber&logoColor=F90)
+![Gherkin](https://img.shields.io/badge/-Gherkin-000?&logo=Gherkin&logoColor=F90)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&logoColor=F90)
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM&logoColor=F90)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=F90)
