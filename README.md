@@ -28,5 +28,6 @@ I'm Noah Zinter. I'm a software test engineer with experience testing complex sy
 ![CircleCi](https://img.shields.io/badge/-CircleCI-000?&logo=circleci)
 ![AWS S3](https://img.shields.io/badge/-AWSS3-000?&logo=awss3)
 ![MiniTest](https://img.shields.io/badge/-Minitest-000?&logo=minitest)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=F90)
 ---
 
