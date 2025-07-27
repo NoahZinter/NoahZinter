@@ -3,7 +3,7 @@ I'm Noah Zinter. I'm a software test engineer with experience testing complex sy
 
 
  ### Technologies I Use
-![GraphQl](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png)
+![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl&logoColor=F90)
 ![Rest](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png)
 ![Typescript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png)
 ![Jest](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png)
